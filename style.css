@@ -434,6 +434,12 @@ body {
     height: 396px;
 }
 
+.footer_wrapper-form{
+    display: flex;
+    flex-direction: column;
+    max-width: 360px;
+}
+
 
 
 
